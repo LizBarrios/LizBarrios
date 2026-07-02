@@ -41,7 +41,7 @@ Aplicación web que convierte documentos PDF en videos explicativos con narraci�
 
 👥 **Equipo de desarrollo:** [Lizeth Barrios](https://github.com/LizBarrios) & [Daniel Rios](https://github.com/DRiosR)
 
-🔗 [Probar aplicación](https://stud-ai-mocha.vercel.app/)
+🔗 [Probar aplicación](https://pagina-web-mathquestmovil-jade.vercel.app/)
 
 ---
 
