@@ -41,7 +41,7 @@ Aplicación web que convierte documentos PDF en videos explicativos con narraci�
 
 👥 **Equipo de desarrollo:** [Lizeth Barrios](https://github.com/LizBarrios) & [Daniel Rios](https://github.com/DRiosR)
 
-🔗 [Probar aplicación](https://pagina-web-mathquestmovil-jade.vercel.app/)
+🔗 [Probar aplicación](https://stud-ai-mocha.vercel.app/)
 
 ---
 
@@ -64,7 +64,7 @@ Plataforma educativa gamificada para aprender matemáticas de forma interactiva.
 👥 **Equipo de desarrollo:** [Lizeth Barrios](https://github.com/LizBarrios), [Daniel Rios](https://github.com/DRiosR) y Martin Ortiz
 
 
-🔗 [Jugar ahora (Demo en Web)](https://math-quest-expo.vercel.app/login)
+🔗 [Jugar ahora (Demo en Web)](https://pagina-web-mathquestmovil-jade.vercel.app/)
 
 ---
 
